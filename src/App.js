@@ -8,7 +8,7 @@ function App() {
           <div className="article__img-container">
             <img
               className="article__img"
-              src="https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-1366919.jpg&fm=jpg"
+              src="https://images.pexels.com/photos/4220967/pexels-photo-4220967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
               alt=""
             />
           </div>
@@ -17,7 +17,9 @@ function App() {
             Get work done quicker by building out entire projects or isolating
             code to test features and animations. Want to keep it all under
             wraps? Upgrade to a PRO account to keep your work private. wraps?
-            Upgrade to a PRO account to keep your work private.
+            Upgrade to a PRO account to keep your work private. wraps? Upgrade
+            to a PRO account to keep your work private. wraps? Upgrade to a PRO
+            account to keep your work private.
           </p>
           <button className="article__btn">Try this</button>
         </div>
@@ -25,7 +27,7 @@ function App() {
           <div className="article__img-container">
             <img
               className="article__img"
-              src="https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-1366919.jpg&fm=jpg"
+              src="https://images.pexels.com/photos/1448055/pexels-photo-1448055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
               alt=""
             />
           </div>
@@ -34,7 +36,9 @@ function App() {
             Get work done quicker by building out entire projects or isolating
             code to test features and animations. Want to keep it all under
             wraps? Upgrade to a PRO account to keep your work private. wraps?
-            Upgrade to a PRO account to keep your work private.
+            Upgrade to a PRO account to keep your work private. wraps? Upgrade
+            to a PRO account to keep your work private. wraps? Upgrade to a PRO
+            account to keep your work private.
           </p>
           <button className="article__btn">Try this</button>
         </div>
@@ -42,7 +46,7 @@ function App() {
           <div className="article__img-container">
             <img
               className="article__img"
-              src="https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-1366919.jpg&fm=jpg"
+              src="https://images.pexels.com/photos/947448/pexels-photo-947448.jpeg?cs=srgb&dl=pexels-tembela-bohle-947448.jpg&fm=jpg"
               alt=""
             />
           </div>
@@ -51,7 +55,9 @@ function App() {
             Get work done quicker by building out entire projects or isolating
             code to test features and animations. Want to keep it all under
             wraps? Upgrade to a PRO account to keep your work private. wraps?
-            Upgrade to a PRO account to keep your work private.
+            Upgrade to a PRO account to keep your work private. wraps? Upgrade
+            to a PRO account to keep your work private. wraps? Upgrade to a PRO
+            account to keep your work private.
           </p>
           <button className="article__btn">Try this</button>
         </div>
@@ -59,7 +65,7 @@ function App() {
           <div className="article__img-container">
             <img
               className="article__img"
-              src="https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-1366919.jpg&fm=jpg"
+              src="https://images.pexels.com/photos/2222839/pexels-photo-2222839.jpeg?cs=srgb&dl=pexels-valdemaras-d-2222839.jpg&fm=jpg"
               alt=""
             />
           </div>
@@ -68,7 +74,9 @@ function App() {
             Get work done quicker by building out entire projects or isolating
             code to test features and animations. Want to keep it all under
             wraps? Upgrade to a PRO account to keep your work private. wraps?
-            Upgrade to a PRO account to keep your work private.
+            Upgrade to a PRO account to keep your work private. wraps? Upgrade
+            to a PRO account to keep your work private. wraps? Upgrade to a PRO
+            account to keep your work private.
           </p>
           <button className="article__btn">Try this</button>
         </div>

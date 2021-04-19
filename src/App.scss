@@ -4,7 +4,7 @@
 
   &__wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 18rem));
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 19rem));
     // grid-template-columns: repeat(3, 1fr);
     gap: 7rem;
     place-content: center;
@@ -12,7 +12,7 @@
 
   &__item {
     background: #2c303a;
-    padding: 1.5rem 1.5rem 2rem;
+    padding-top: 3.3rem;
     margin: 2rem 0;
     border-radius: 10px;
     position: relative;
@@ -20,11 +20,11 @@
   }
   &__img-container {
     position: absolute;
-    top: -55%;
+    top: -50%;
     left: 0;
   }
   &__img {
-    clip-path: circle(66px at center);
+    clip-path: circle(90px at center);
   }
   &__header {
     font-size: 2rem;
@@ -33,8 +33,11 @@
     text-align: center;
   }
   &__desc {
-    padding: 0.5rem 0.5rem;
-    font-size: 0.9rem;
+    padding: 1px 1px;
+    // margin: 1px 1px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    line-height: 1.4;
     color: #fff;
   }
   &__btn {
