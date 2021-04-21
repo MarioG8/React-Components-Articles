@@ -1,4 +1,4 @@
-.article {
+.main {
   position: relative;
   padding: 10rem 3rem;
 
@@ -8,50 +8,5 @@
     // grid-template-columns: repeat(3, 1fr);
     gap: 7rem;
     place-content: center;
-  }
-
-  &__item {
-    background: #2c303a;
-    padding-top: 3.3rem;
-    margin: 2rem 0;
-    border-radius: 10px;
-    position: relative;
-    z-index: 1;
-  }
-  &__img-container {
-    position: absolute;
-    top: -50%;
-    left: 0;
-  }
-  &__img {
-    clip-path: circle(90px at center);
-  }
-  &__header {
-    font-size: 2rem;
-    color: #fff;
-    padding-top: 2.5rem;
-    text-align: center;
-  }
-  &__desc {
-    padding: 1px 1px;
-    // margin: 1px 1px;
-    font-size: 0.8rem;
-    font-weight: 500;
-    line-height: 1.4;
-    color: #fff;
-  }
-  &__btn {
-    width: 100%;
-    border: none;
-    font-size: 1rem;
-    background: #444857;
-    padding: 1rem;
-    color: #76daff;
-    border-radius: 5px;
-    cursor: pointer;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    text-align: center;
-    font-weight: 600;
   }
 }
