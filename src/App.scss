@@ -6,7 +6,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 19rem));
     // grid-template-columns: repeat(3, 1fr);
-    gap: 7rem;
+    gap: 10rem;
     place-content: center;
   }
 }
